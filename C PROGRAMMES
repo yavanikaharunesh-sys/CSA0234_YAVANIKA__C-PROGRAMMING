@@ -1,4 +1,4 @@
-//To display our name.
+//1.To display our name.
 #include<stdio.h>
 int main()
 {
@@ -7,7 +7,7 @@ printf("Welcome to SIMATS");
 return 0;
 }
 
-//To find area of square 
+//2.To find area of square 
 #include<stdio.h> 
 int main() 
 { 
@@ -19,7 +19,7 @@ printf("%d",area);
 return 0; 
 }
 
-//To add two integer values
+//3.To add two integer values
 #include<stdio.h> 
 int main() 
 { 
@@ -31,7 +31,7 @@ printf("%d",c);
 return 0; 
 }
 
-//add two floating points 
+//4.add two floating points 
 #include<stdio.h> 
 int main() 
 { 
@@ -43,7 +43,7 @@ printf("%f",sum);
 return 0; 
 }
 
-//To find the area of circle
+//5.To find the area of circle
 #include<stdio.h> 
 int main()
 { 
@@ -55,7 +55,7 @@ printf("%f",area);
 return 0; 
 }
 
-//To find area and perimeter of rectangle
+//6.To find area and perimeter of rectangle
 #include<stdio.h>
 int main()
 {
@@ -68,7 +68,7 @@ printf("%d",perimeter);
 return 0; 
 }
 
-//To find area of the traingle
+//7.To find area of the traingle
 #include<stdio.h> int main()
 { 
 float a,b,area; 
@@ -78,7 +78,7 @@ printf("%f",area);
 return 0; 
 }
 
-//Converting celsius to fahrenheit scale 
+//8.Converting celsius to fahrenheit scale 
 #include<stdio.h> 
 int main()
 { float C,F; 
@@ -88,7 +88,7 @@ printf("%f",F);
 return 0; 
 }
 
-//To convert Fahrenheit to celsius scale
+//9.To convert Fahrenheit to celsius scale
 #include<stdio.h> 
 int main()
 { 
@@ -99,7 +99,7 @@ printf("%f",C);
 return 0; 
 }
 
-//To find the Simple interest
+//10.To find the Simple interest
 #include<stdio.h>
 int main() 
 { 
